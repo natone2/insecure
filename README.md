@@ -16,7 +16,7 @@ I want to make it clear, this is a rework of maryam and it is nothing more than 
  - OSX
 
 ### Prerequisites
- - Python 3.8.x or 3.9.x (NOT 3.7, ..)
+ - Python 3.8.x or 3.9.x (NOT 3.7, ...)
  - requests module
 
 ```bash
