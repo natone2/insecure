@@ -2,7 +2,7 @@
 
 Insecure is a tool for the discovery of leaks, relevant information on email addresses and social networks. This tool is based on the https://github.com/saeeddhqan project, licensed under the GPL 3.0.
 
-I am using it as a project to hone my Python skills.
+I am using it as a project to hone my Python skills
 
 # DISCLAIMER
 
